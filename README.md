@@ -79,3 +79,8 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 - **Compras**
   - **Añadir al Carrito:** Selecciona productos y agrégales al carrito (esto requiere que el usuario haya iniciado sesión).
   - **Realizar Compras:** Procede a la compra de los productos en tu carrito. Después de completar la compra, podrás ver los detalles en la sección correspondiente.
+ 
+- ## Autor
+
+Este proyecto fue desarrollado por Franco Gabriel Stebe. Si tienes alguna pregunta o necesitas más información, no dudes en ponerte en contacto conmigo.
+
